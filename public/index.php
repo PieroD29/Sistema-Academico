@@ -1,6 +1,5 @@
 <?php
-  include ('../app/config.php');
-  include ('../admin/layout/header.php');
+  include ('layout/header.php');
 ?>
 
   <!-- Content Wrapper. Contains page content -->
@@ -20,6 +19,5 @@
   <!-- /.content-wrapper -->
 
 <?php
-  include ('../layout/mensajes.php');
-  include ('../admin/layout/footer.php');
+  include ('layout/footer.php');
 ?>
